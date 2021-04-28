@@ -85,5 +85,4 @@ while True:
 
 
 
-'''Eu NEM ACREDITO que consegui!!! Anos tentando aprender, e eis meu primeiro programa!!(Fora os "olám mundo" da vida. Professor, de coração, MUITO OBRIGADA!
-Tenho plena consciência de que tem muita coisa pra melhorar, mas a partir de agora eu entendi os fundamentos :) '''
+'''Eu NEM ACREDITO que consegui!!! Tenho plena consciência de que tem muita coisa pra melhorar, mas a partir de agora eu entendi os fundamentos :) '''
